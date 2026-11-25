@@ -109,7 +109,7 @@ Relevant settings in `config.json`:
 ```json
 {
   "server": {
-    "host": "abdul786.aternos.me",
+    "host": "xyz.aternos.me",
     "port": 20365,
     "auth": "microsoft",
     "username": "YOUR_MICROSOFT_ACCOUNT_EMAIL"
